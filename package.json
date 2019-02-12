@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "A friend app that uses Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NathanKloer/FriendFinder.git"
+  },
+  "author": "NathanKloer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NathanKloer/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/NahtanKloer/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
